@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\Ekz\Ekz\bin\Debug\netcoreapp2.1\Ekz.deps.json
+C:\Users\PC\source\repos\Ekz\Ekz\bin\Debug\netcoreapp2.1\Ekz.runtimeconfig.json
+C:\Users\PC\source\repos\Ekz\Ekz\bin\Debug\netcoreapp2.1\Ekz.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Ekz\Ekz\bin\Debug\netcoreapp2.1\Ekz.dll
+C:\Users\PC\source\repos\Ekz\Ekz\bin\Debug\netcoreapp2.1\Ekz.pdb
+C:\Users\PC\source\repos\Ekz\Ekz\obj\Debug\netcoreapp2.1\Ekz.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Ekz\Ekz\obj\Debug\netcoreapp2.1\Ekz.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Ekz\Ekz\obj\Debug\netcoreapp2.1\Ekz.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Ekz\Ekz\obj\Debug\netcoreapp2.1\Ekz.AssemblyInfo.cs
+C:\Users\PC\source\repos\Ekz\Ekz\obj\Debug\netcoreapp2.1\Ekz.dll
+C:\Users\PC\source\repos\Ekz\Ekz\obj\Debug\netcoreapp2.1\Ekz.pdb
